@@ -1,6 +1,6 @@
 # Child Malnutrition Risk Predictor
 
-MUAC screening — measuring a child's mid-upper arm circumference — is how you identify malnutrition in the field. The problem is it requires a trained person to physically measure each child, which creates a real bottleneck in low-coverage areas.
+MUAC screening, measuring a child's mid-upper arm circumference is how you identify malnutrition in the field.Working in WFP Project of Benazir Nashunuma Programme gave me the idea as i was working as Information managment officer there, The problem is it requires a trained person to physically measure each child, which creates a real bottleneck in low-coverage areas.
 
 The question I wanted to answer: can household-level survey data predict malnutrition risk well enough to prioritise which children get screened first? This model suggests yes.
 
@@ -40,5 +40,5 @@ jupyter notebook malnutrition_ml.ipynb
 
 ---
 
-**Muhammad Masoom Khan** — Data Analyst | IBM AI Certified  
+**Muhammad Masoom Khan**  
 [Portfolio](https://masoom-khan.github.io) · [LinkedIn](https://www.linkedin.com/in/muhammadmasoomkhan/)
